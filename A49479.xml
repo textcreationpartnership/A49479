@@ -571,11 +571,8 @@ One day I hope to shutt you up in hell.</l>
                   </sp>
                   <stage>Eleazar shuts them in.</stage>
                </div>
-            </div>
-            <div n="1" type="act">
-               <head>Act. I<hi rend="sup">mus</hi>.</head>
                <div n="2" type="scene">
-                  <head>Scena II<hi rend="sup">da</hi>.</head>
+                  <head>Act. I<hi rend="sup">mus</hi>. Scena II<hi rend="sup">da</hi>.</head>
                   <stage>Enter Alvero.</stage>
                   <sp>
                      <speaker>Alvero.</speaker>
@@ -672,12 +669,9 @@ Sweet opportunity I'le bind my self</l>
                   </sp>
                   <stage>Exit.</stage>
                </div>
-            </div>
-            <div n="1" type="act">
-               <pb facs="tcp:51768:10"/>
-               <head>Act. I<hi rend="sup">mus</hi>.</head>
                <div n="3" type="scene">
-                  <head>Scena 3<hi rend="sup">ti•</hi>.</head>
+               <pb facs="tcp:51768:10"/>
+                 <head>Act. I<hi rend="sup">mus</hi>. Scena 3<hi rend="sup">ti•</hi>.</head>
                   <stage>The Courtains being drawn there appears in his bed King Phillip, with his Lords, the Prin<g ref="char:EOLhyphen"/>cesse Isabella, at the feet Mendoza, Al<g ref="char:EOLhyphen"/>vero, Hortensio, Fernando, Roderi<g ref="char:EOLhyphen"/>go, and to them Enter Queen in hast.</stage>
                   <sp>
                      <speaker>
@@ -1089,11 +1083,8 @@ In just revenge of this Indignity.</l>
                      </gap>
                   </stage>
                </div>
-            </div>
-            <div n="1" type="act">
-               <head>Act. I.</head>
                <div n="4" type="scene">
-                  <head>Scena IV.</head>
+                  <head>Act. I. Scena IV.</head>
                   <sp>
                      <speaker>Alvero.</speaker>
                      <l>WHy should my sonne be ba<g ref="char:EOLhyphen"/>nished?</l>
@@ -1330,9 +1321,9 @@ From her Report your late receiv'd disgrace:</l>
             </div>
             <div n="2" type="act">
                <pb facs="tcp:51768:16"/>
-               <head>Act. II.</head>
+               <head></head>
                <div n="1" type="scene">
-                  <head>Scena. I.</head>
+                  <head>Act. II. Scena. I.</head>
                   <stage>Enter two Lords, Philip his brother, Mendo<g ref="char:EOLhyphen"/>za, Eleazar with him, the King Crown'd, Queen mother, Alvero, Zarack, Baltazar, and attendants.</stage>
                   <sp>
                      <speaker>Mend.</speaker>
@@ -1596,11 +1587,8 @@ On every Spaniards eye, yet shall the d<gap reason="illegible" resp="#APEX" exte
                   </sp>
                   <stage>Exeunt Omnes.</stage>
                </div>
-            </div>
-            <div n="2" type="act">
-               <head>Act. II.</head>
                <div n="2" type="scene">
-                  <head>Scena II.</head>
+                  <head>Act. II. Scena II.</head>
                   <stage>Enter Queen Mother, and Eleazar.</stage>
                   <sp>
                      <speaker>Eleaz.</speaker>
@@ -1874,11 +1862,8 @@ Search for these friers, hire them to work with you;</l>
                   <stage>
                      <hi>Aside.</hi> Here comes the <hi>Queen,</hi> good; and the Friers.</stage>
                </div>
-            </div>
-            <div n="2" type="act">
-               <head>Act. II.</head>
                <div n="3" type="scene">
-                  <head>Scena. III.</head>
+                  <head>Act. II. Scena. III.</head>
                   <stage>Enter two Friers, Crab and Cole; and Queen Mother.</stage>
                   <sp>
                      <speaker>Cole.</speaker>
@@ -2089,11 +2074,8 @@ When we cry treason, break ope chamber doors:</l>
                   </sp>
                   <stage>Exit.</stage>
                </div>
-            </div>
-            <div n="2" type="act">
-               <head>Act. II.</head>
                <div n="4" type="scene">
-                  <head>Scena. IV.</head>
+                  <head>Act. II. Scena. IV.</head>
                   <stage>Enter Cole and Crab in Trouses, the Car<g ref="char:EOLhyphen"/>dinall in one of their weeds, and Philip putting on the other.</stage>
                   <sp>
                      <speaker>Both Friers.</speaker>
@@ -2188,11 +2170,8 @@ I vow I'le come again, and if I do:</l>
                   </sp>
                   <stage>Exeunt</stage>
                </div>
-            </div>
-            <div n="2" type="act">
-               <head>Act. II.</head>
                <div n="5" type="scene">
-                  <head>Scena. V.</head>
+                  <head>Act. II. Scena. V.</head>
                   <stage>To the Friers <gap reason="illegible" resp="#APEX" extent="1+ letters">
                         <desc>•…</desc>
                      </gap>king a noise, gagg'd and bound, Enter Eleazar, Zarack, Baltazar, and other Moors, all with their Swords drawn.</stage>
@@ -2473,12 +2452,9 @@ Then each man to his rest; good night sweet friend,</l>
                      <l>Wash the disgrace from <hi>Eleazars</hi> brows.</l>
                   </sp>
                </div>
-            </div>
-            <div n="2" type="act">
-               <pb facs="tcp:51768:28"/>
-               <head>Act. II.</head>
                <div n="6" type="scene">
-                  <head>Scena. VI.</head>
+              <pb facs="tcp:51768:28"/>
+                   <head>Act. II. Scena. VI.</head>
                   <stage>Enter Maria.</stage>
                   <sp>
                      <speaker>Maria.</speaker>
@@ -2686,12 +2662,9 @@ Privately to a banquet, I unseen</l>
                   </sp>
                   <stage>Exeunt omnes.</stage>
                </div>
-            </div>
-            <div n="3" type="act">
-               <pb facs="tcp:51768:31"/>
-               <head>Act. III.</head>
                <div n="2" type="scene">
-                  <head>Scena II.</head>
+               <pb facs="tcp:51768:31"/>
+                <head>Act. III. Scena II.</head>
                   <stage>Enter King with his Rapier drawn in one hand, leading Maria seeming af<g ref="char:EOLhyphen"/>frighted in th' other.</stage>
                   <sp>
                      <speaker>Maria.</speaker>
@@ -2885,11 +2858,8 @@ Till you come in Fairy Land.</l>
                   </sp>
                   <stage>Offers to be gone.</stage>
                </div>
-            </div>
-            <div n="3" type="act">
-               <head>Act. III.</head>
                <div n="3" type="scene">
-                  <head>Scena. III.</head>
+                  <head>Act. III. Scena. III.</head>
                   <stage>To her, Enter Queen Mother suddainly, with Alva<gap reason="illegible" resp="#APEX" extent="1+ letters">
                         <desc>•…</desc>
                      </gap>o, and Roderigo, with Rapiers.</stage>
@@ -3060,12 +3030,9 @@ But cri'd do on, when you were shedding blood:</l>
                      <l>And since I liv'd for her, for her I'l die.</l>
                   </sp>
                </div>
-            </div>
-            <div n="3" type="act">
-               <pb facs="tcp:51768:36"/>
-               <head>Act. III.</head>
                <div n="4" type="scene">
-                  <head>Scena. IV.</head>
+               <pb facs="tcp:51768:36"/>
+                 <head>Act. III. Scena. IV.</head>
                   <stage>Enter Eleazar with a Torch and Rapier drawn.</stage>
                   <sp>
                      <speaker>Eleazar.</speaker>
@@ -3318,11 +3285,8 @@ To <hi>Roderigo</hi> I'le give Arragon:</l>
                   </sp>
                   <stage>Exeunt.</stage>
                </div>
-            </div>
-            <div n="3" type="act">
-               <head>Act. III.</head>
                <div n="5" type="scene">
-                  <head>Scena. V.</head>
+                  <head>Act. III. Scena. V.</head>
                   <stage>Enter Zarack and Baltazar with Calivers.</stage>
                   <sp>
                      <speaker>Baltaz.</speaker>
@@ -3666,12 +3630,9 @@ Who shall live our good Lord and Master?</l>
                   </sp>
                   <stage>Exeunt.</stage>
                </div>
-            </div>
-            <div n="3" type="act">
-               <pb facs="tcp:51768:42"/>
-               <head>Act III.</head>
                <div n="6" type="scene">
-                  <head>Scena. VI.</head>
+               <pb facs="tcp:51768:42"/>
+                 <head>Act III. Scena. VI.</head>
                   <stage>Enter Eleazar, Zarack, and Baltazar.</stage>
                   <sp>
                      <speaker>Eleazar.</speaker>
@@ -3857,12 +3818,9 @@ Which by innative duty I did owe her,</l>
                   </sp>
                   <stage>Alarum, and a Battail, the Moor prevails: All Exeunt.</stage>
                </div>
-            </div>
-            <div n="4" type="act">
-               <pb facs="tcp:51768:45"/>
-               <head>Act. IV.</head>
                <div n="2" type="scene">
-                  <head>Scena. II.</head>
+               <pb facs="tcp:51768:45"/>
+                   <head>Act. IV. Scena. II.</head>
                   <stage>Enter Philip and Cardinall.</stage>
                   <sp>
                      <speaker>Phil.</speaker>
@@ -4057,12 +4015,9 @@ Enter King of Port.</stage>
                         </gap>r.</l>
                   </sp>
                </div>
-            </div>
-            <div n="4" type="act">
-               <pb facs="tcp:51768:47"/>
-               <head>Act. IV.</head>
                <div n="3" type="scene">
-                  <head>Scena. III.</head>
+                <pb facs="tcp:51768:47"/>
+                 <head>Act. IV. Scena. III.</head>
                   <stage>To them enter Eleazar, Zarack, Baltazar, Roderigo, Christofero, and others, they fight, Moors are all beat in, <hi>Exeunt omnes, manet</hi> Eleazar weary; staies, a Moor lies slain.</stage>
                   <sp>
                      <speaker>Eleaz.</speaker>
@@ -4408,12 +4363,9 @@ About the temples of our victory.</l>
                   </sp>
                   <stage>Exeunt.</stage>
                </div>
-            </div>
-            <div n="4" type="act">
-               <pb facs="tcp:51768:50"/>
-               <head>Act. IV</head>
                <div n="4" type="scene">
-                  <head>Scena. IV.</head>
+               <pb facs="tcp:51768:50"/>
+                  <head>Act. IV Scena. IV.</head>
                   <stage>Enter Cardinall, Queen Mother. Souldi<g ref="char:EOLhyphen"/>ers, drums, and colours.</stage>
                   <sp>
                      <speaker>Queen Mo.</speaker>
@@ -4733,12 +4685,9 @@ About the temples of our victory.</l>
                   </sp>
                   <stage>Exeunt.</stage>
                </div>
-            </div>
-            <div n="4" type="act">
-               <pb facs="tcp:51768:54"/>
-               <head>Act. IV.</head>
                <div n="5" type="scene">
-                  <head>Scena. V.</head>
+               <pb facs="tcp:51768:54"/>
+                  <head>Act. IV.  Scena. V.</head>
                   <stage>Enter Cardinal at one door, Philippo half arm'd, and two souldiers following him with the rest of the armour: the Cardinal seeing him, turns back again.</stage>
                   <sp>
                      <speaker>Phil.</speaker>
@@ -5507,11 +5456,8 @@ Bring forth the Princes drest in royal robes,</l>
                      <l>Virtuous <hi>Hortenzo.</hi> Lords, behold your Queen.</l>
                   </sp>
                </div>
-            </div>
-            <div n="5" type="act">
-               <head>Act. V.</head>
                <div n="2" type="scene">
-                  <head>Scena. II.</head>
+                  <head>Act. V. Scena. II.</head>
                   <stage>Enter Isabella led in, in royal robes. Hortenzo.</stage>
                   <sp>
                      <speaker>Qu. Mo.</speaker>
@@ -5644,11 +5590,8 @@ Bring forth the Princes drest in royal robes,</l>
                   </sp>
                   <stage>Exit with a guard.</stage>
                </div>
-            </div>
-            <div n="5" type="act">
-               <head>Act. V.</head>
                <div n="3" type="scene">
-                  <head>Scena. III.</head>
+                  <head>Act. V. Scena. III.</head>
                   <stage>Manet <hi>Eleazar.</hi>
                   </stage>
                   <sp>
@@ -5941,11 +5884,8 @@ Come follow me, I'le lead you in the van,</l>
                   </sp>
                   <stage>Exeunt.</stage>
                </div>
-            </div>
-            <div n="5" type="act">
-               <head>Act. V.</head>
-               <div n="4" type="scene">
-                  <head>Scena IV.</head>
+              <div n="4" type="scene">
+                  <head>Act. V. Scena IV.</head>
                   <stage>Enter Hortenzo, Queen Mother, Cardinall, and Philip chaind' by the necks, Zarack, and Baltazar busie about fast<g ref="char:EOLhyphen"/>ning Hortenzo.</stage>
                   <sp>
                      <speaker>Hort.</speaker>
@@ -6041,12 +5981,9 @@ What need I curse my selfe, when all curse mee.</l>
                      <l>'Tis not my self, but <hi>Isabel</hi> I fear.</l>
                   </sp>
                </div>
-            </div>
-            <div n="5" type="act">
-               <pb facs="tcp:51768:67"/>
-               <head>Act. V</head>
                <div n="5" type="scene">
-                  <head>Scena V.</head>
+               <pb facs="tcp:51768:67"/>
+                  <head>Act. V Scena V.</head>
                   <stage>Enter Eleazar, Zarack, and Baltaz<gap reason="illegible" resp="#APEX" extent="1+ letters">
                         <desc>•…</desc>
                      </gap>.</stage>
@@ -6508,11 +6445,8 @@ Vengeance awake, thou hast much work in hand.</l>
                   </sp>
                   <stage>Exeunt.</stage>
                </div>
-            </div>
-            <div n="5" type="act">
-               <head>Act V.</head>
                <div n="6" type="scene">
-                  <head>Scena VI.</head>
+                  <head>Act V. Scena VI.</head>
                   <stage>Enter Eleazar, Alvero, Roderigo, Christofero, and other Lords.</stage>
                   <sp>
                      <speaker>Eleazar.</speaker>
